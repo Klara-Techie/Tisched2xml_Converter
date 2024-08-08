@@ -1,4 +1,4 @@
-# XML Handler Tool
+# Tisched2xml converter Tool
 ## Description
 This tool is designed to manipulate XML files by performing the following functions:
 
